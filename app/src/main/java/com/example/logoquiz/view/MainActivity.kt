@@ -1,9 +1,8 @@
 package com.example.logoquiz.view
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.example.logoquiz.R
-import com.example.logoquiz.di.DaggerLogoQuizComponent
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
